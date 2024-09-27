@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Seekbar Portrait Landscape</string>
     <string name="seekbar_value_message">The seekbar value is %1$d</string>
+    <string name="show_square">Show square</string>
+    <string name="instructions">Try to tap the square</string>
 </resources>
